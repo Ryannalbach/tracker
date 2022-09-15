@@ -1,0 +1,91 @@
+[
+    {
+      "inbound": 72633,
+      "outbound": 74735,
+      "from": {
+        "name": "19th St. Oakland (19TH)",
+        "coordinates": [
+          -122.269029,
+          37.80787
+        ]
+      },
+      "to": {
+        "name": "12th St. Oakland City Center (12TH)",
+        "coordinates": [
+          -122.271604,
+          37.803664
+        ]
+      }
+    },
+    {
+      "inbound": 65042,
+      "outbound": 67529,
+      "from": {
+        "name": "12th St. Oakland City Center (12TH)",
+        "coordinates": [
+          -122.271604,
+          37.803664
+        ]
+      },
+      "to": {
+        "name": "West Oakland (WOAK)",
+        "coordinates": [
+          -122.294582,
+          37.804675
+        ]
+      }
+    },
+    {
+      "inbound": 0,
+      "outbound": 23821,
+      "from": {
+        "name": "Lake Merritt (LAKE)",
+        "coordinates": [
+          -122.265609,
+          37.797484
+        ]
+      },
+      "to": {
+        "name": "12th St. Oakland City Center (12TH)",
+        "coordinates": [
+          -122.271604,
+          37.803664
+        ]
+      }
+    },
+    {
+      "inbound": 62964,
+      "outbound": 58788,
+      "from": {
+        "name": "16th St. Mission (16TH)",
+        "coordinates": [
+          -122.419694,
+          37.765062
+        ]
+      },
+      "to": {
+        "name": "Civic Center/UN Plaza (CIVC)",
+        "coordinates": [
+          -122.413756,
+          37.779528
+        ]
+      }
+    },
+    {
+      "inbound": 55134,
+      "outbound": 51019,
+      "from": {
+        "name": "24th St. Mission (24TH)",
+        "coordinates": [
+          -122.418466,
+          37.752254
+        ]
+      },
+      "to": {
+        "name": "16th St. Mission (16TH)",
+        "coordinates": [
+          -122.419694,
+          37.765062
+        ]
+      }
+    },
